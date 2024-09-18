@@ -19,5 +19,5 @@ ax.set_xlabel('x')
 ax.set_ylabel('sin(x)')
 ax.set_title('Sine Wave Plot')
 
-
+#
 ax.legend()
